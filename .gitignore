@@ -91,3 +91,9 @@ ENV/
 *.dot
 *.xml
 *.ppm
+
+# pycharm stuff
+.idea/
+
+# vscode stuff
+.vscode/
